@@ -1,70 +1,82 @@
-# Hello, I'm Timothy Udumula
+# 👋 Hello, I'm Timothy Udumula
+
 <a href="https://linkedin.com/in/timothyudumula/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+I’m a recent graduate passionate about technology, cybersecurity, and building solutions that make digital environments more secure and reliable.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving problems.
+---
 
-## Objective 
+## 🎯 Objective
 
-My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to apply my knowledge and skills into this field.
+With a background in IT support and hands-on projects in network monitoring and SIEM deployment, I’m eager to contribute to cybersecurity operations and threat detection in real-world environments.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+---
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+## 🧠 Skills & Projects
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+| Skill                                         | Project Example                                     |
+|----------------------------------------------|-----------------------------------------------------|
+| SIEM Implementation and Log Analysis         | [Detection Lab](https://github.com/clong/DetectionLab) |
+| Network Traffic Monitoring & Attack Detection| [Packet Capture & Analysis Lab](https://google.com) |
 
-### Network
+---
+
+## 🛠️ Tools & Platforms
+
+### 🔌 Network Monitoring
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
+### 💻 Endpoint Security
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### SIEM
+### 📊 SIEM Tools
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+---
+
+## 📜 Certifications
+
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+---
 
-Here are some ideas to get you started:
+## 🧪 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛡️ [Detection Lab](https://github.com/clong/DetectionLab): Built and configured a SIEM environment to simulate attacks and analyze log data.
+- ⚙️ SOC Automation Script: Automated log parsing and alerting using Python + Splunk API.
+
+---
+
+## 🌱 Currently Exploring
+
+- Cloud Security (Azure & AWS)
+- Threat Intelligence Platforms
+- Linux Hardening & Sysmon configuration
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: mtsu777@yahoo.com
+- 🌐 [LinkedIn](https://linkedin.com/in/timothyudumula/)
+- 🖥️ [GitHub](https://github.com/your-username)
+
+---
+
