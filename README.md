@@ -59,8 +59,9 @@ With a background in IT support and hands-on projects in network monitoring and 
 
 ## 🧪 Projects
 
-- 🛡️ [Detection Lab](https://github.com/clong/DetectionLab): Built and configured a SIEM environment to simulate attacks and analyze log data.
-- ⚙️ SOC Automation Script: Automated log parsing and alerting using Python + Splunk API.
+-  [Detection Lab](https://github.com/clong/DetectionLab): Built and configured a SIEM environment to simulate attacks and analyze log data.
+-  SOC Automation Script: Automated log parsing and alerting using Python + Splunk API.
+-  [SOHO IoT NIST CSF Framework](https://github.com/timothyudumula7/SOHO-IoT-NIST-CSF): Built a NISF CSF framework for SOHO IoT environment.
 
 ---
 
