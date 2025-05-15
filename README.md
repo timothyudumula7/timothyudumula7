@@ -18,6 +18,7 @@ With a background in IT support and hands-on projects in network monitoring and 
 |----------------------------------------------|-----------------------------------------------------|
 | SIEM Implementation and Log Analysis         | [Detection Lab](https://github.com/clong/DetectionLab) |
 | Network Traffic Monitoring & Attack Detection| [Packet Capture & Analysis Lab](https://google.com) |
+| NISF CSF framework for SOHO IoT environment| [Project Report](https://github.com/timothyudumula7/SOHO-IoT-NIST-CSF) |
 
 ---
 
